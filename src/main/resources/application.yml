@@ -1,0 +1,4 @@
+paypal:
+#    clientId: your client id
+#    clientSecret: your client secret
+    mode: sandbox     # sandbox or live
