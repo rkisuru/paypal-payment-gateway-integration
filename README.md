@@ -1,13 +1,32 @@
-# PayPal Payment Gateway Integration (Sandbox Mode)  
+# 🚀 PayPal Payment Gateway Integration (Sandbox Mode)  
 
-This project demonstrates a simple integration of the PayPal Payment Gateway in **sandbox mode** using **Spring Boot** and **Thymeleaf**.  
+![PayPal](https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg)  
 
-## Features  
+A simple yet powerful integration of the **PayPal Payment Gateway** in **sandbox mode** using **Spring Boot** and **Thymeleaf**. This project allows seamless payment processing through PayPal's REST API with dynamic payment amounts and descriptions.  
 
-- Process payments through PayPal in sandbox mode.  
-- Easy integration with the PayPal REST API.  
-- Dynamic payment amount and description support.  
-- Thymeleaf templates for UI rendering.
+---
+
+## ✨ Features  
+
+✅ Process payments securely via **PayPal** (sandbox mode).  
+✅ Seamless integration with **PayPal REST API**.  
+✅ Support for **dynamic payment amounts** and **custom descriptions**.  
+✅ User-friendly UI with **Thymeleaf templates**.  
+✅ Clean and modular **Spring Boot architecture**.  
+
+---
+
+## 🛠️ Technologies Used  
+
+- **Spring Boot** (Backend)  
+- **Thymeleaf** (Frontend)  
+- **PayPal REST API**  
+- **Spring Web, Spring MVC**  
+- **Lombok (for cleaner code)**  
+- **Maven (for dependency management)**  
+
+---
+
 
 ## Demo
 
